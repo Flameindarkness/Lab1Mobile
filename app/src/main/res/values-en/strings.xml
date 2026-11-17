@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business card</string>
+    <string name="full_name">Vyacheslav Nagovitsyn</string>
+    <string name="group">Student of group B22-191-1z</string>
+    <string name="university">Kalashnikov Izhevsk State Technical University</string>
+    <string name="logo_description">Android logo</string>
+    <string name="email_icon_description">Email</string>
+</resources>
