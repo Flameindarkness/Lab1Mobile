@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Отступы -->
+    <dimen name="screen_padding">24dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">16dp</dimen>
+    <dimen name="spacing_large">32dp</dimen>
+
+    <!-- Размеры элементов -->
+    <dimen name="logo_size">160dp</dimen>
+    <dimen name="logo_padding">20dp</dimen>
+    <dimen name="icon_size">24dp</dimen>
+    <dimen name="divider_height">1dp</dimen>
+
+    <!-- Размеры шрифтов -->
+    <dimen name="name_text_size">32sp</dimen>
+    <dimen name="subtitle_text_size">18sp</dimen>
+    <dimen name="contact_text_size">16sp</dimen>
+</resources>

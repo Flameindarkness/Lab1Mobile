@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Строка контакта: иконка почты и адрес. Используется во всех вариантах разметки -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:gravity="center_vertical"
+    android:orientation="horizontal">
+
+    <ImageView
+        android:layout_width="@dimen/icon_size"
+        android:layout_height="@dimen/icon_size"
+        android:contentDescription="@string/email_icon_description"
+        android:src="@drawable/ic_email" />
+
+    <TextView
+        android:id="@+id/email"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/spacing_small"
+        android:autoLink="email"
+        android:text="@string/email"
+        android:textColor="@color/primary_text"
+        android:textColorLink="@color/primary_text"
+        android:textSize="@dimen/contact_text_size" />
+</LinearLayout>

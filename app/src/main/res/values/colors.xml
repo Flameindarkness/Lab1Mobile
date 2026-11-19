@@ -2,4 +2,12 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Цвета визитки -->
+    <color name="card_background">#FFE7F2EC</color>
+    <color name="logo_background">#FF073042</color>
+    <color name="primary_text">#FF073042</color>
+    <color name="secondary_text">#FF3C5A5E</color>
+    <color name="accent">#FF006D3B</color>
+    <color name="divider">#33073042</color>
 </resources>

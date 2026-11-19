@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Визитка</string>
+    <string name="full_name">Вячеслав Наговицын</string>
+    <string name="group">Студент группы Б22-191-1з</string>
+    <string name="university">ИжГТУ имени М. Т. Калашникова</string>
+    <string name="logo_description">Логотип Android</string>
+    <string name="email_icon_description">Электронная почта</string>
+</resources>
